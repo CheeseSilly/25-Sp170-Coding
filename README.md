@@ -23,7 +23,7 @@ conda install jupyter
 ```
 7. Clone this repository somewhere in your device:
 ```
-git clone https://github.com/Berkeley-CS170/cs170-sp24-coding
+git clone https://github.com/Berkeley-CS170/cs170-sp25-coding
 ```
 8. Once you're done, deactivate the conda environment to return to your default environment:
 ```
@@ -37,7 +37,7 @@ conda deactivate
 2. Open up your terminal
 3. `cd` into your specific coding homework directory, e.g.:
 ```
-cd <wherever your homework lives>/cs170-sp24-coding/hw02
+cd <wherever your homework lives>/cs170-sp25-coding/hw02
 ```
 4. Activate the `cs170` conda environment you created during initial local setup:
 ```
